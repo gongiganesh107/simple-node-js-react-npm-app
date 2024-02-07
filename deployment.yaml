@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: koti-kotiss
-      image: koteswarararaosairi/k8sma:v12
+      image: newmynodejsimage1/k8sma
       imagePullPolicy: Always
       ports:
       - containerPort: 3000
